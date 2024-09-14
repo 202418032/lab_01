@@ -108,7 +108,6 @@ Before using the dataset, consider the following preprocessing steps:
 - Pandas
 - NumPy
 - Matplotlib (for visualization)
+- Seaborn (for visualization)
 - SKlearn (for model)
 
-## License
-This dataset is provided for research and educational purposes. For commercial use, please contact the dataset provider.
