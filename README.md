@@ -50,8 +50,8 @@ Before using the dataset, consider the following preprocessing steps:
 
 ## Models Used
 - **Linear Regression**
-- **K-Nearest Neighbors Regression**
-- **Random Forest Regression**
+- **K-Nearest Neighbors Regressor**
+- **Random Forest Regressor**
 
 ## Evaluation Metrics
 - **Mean Squared Error (MSE)**
